@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет, я Даниил! 👋
 
-<!--
-**DaniiilPA/DaniiilPA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я ученик 11 класса и начинающий Backend/Data разработчик. 
+Увлекаюсь автоматизацией процессов и построением систем на Python.
 
-Here are some ideas to get you started:
+### Мой стек:
+* **Languages:** Python (Asyncio, Threading, OOP)
+* **Backend:** FastAPI, Aiogram 3, SQLAlchemy
+* **Infrastructure:** Docker, Docker Compose, PostgreSQL, SQLite
+* **Инструменты:** Git, AI-assisted development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Мои основные проекты:
+* **https://github.com/DaniiilPA/SchoolProject** — микросервисный сервис мониторинга (FastAPI + Aiogram + Docker). Мой самый сложный проект на данный момент.
+* **https://github.com/DaniiilPA/arpg_script** — система макросов на Python с использованием ООП и многопоточности.
+
+📫 Связь: tg:@DaniiilPA
